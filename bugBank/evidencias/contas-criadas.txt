@@ -1,0 +1,16 @@
+Contas criadas pelo teste - 11/11/2026 12:57:25
+
+CONTA DE ORIGEM (enviou a transferencia)
+  Nome:   Julio Antena
+  E-mail: joaogabriel.fontes@live.com
+  Senha:  0v481z9kx3r
+  Conta:  828-7
+  Saldo inicial: 1000
+
+CONTA DE DESTINO (recebeu a transferencia)
+  Nome:   Rodrigo Siqueiro
+  E-mail: marialuiza.aguiar@yahoo.com
+  Senha:  0v481z9kx3r
+  Conta:  464-1
+  Saldo inicial: 1000
+
